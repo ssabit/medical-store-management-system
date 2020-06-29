@@ -18,4 +18,4 @@ This is a desktop application to manage a medical store. With this application u
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
