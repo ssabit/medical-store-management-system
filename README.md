@@ -5,7 +5,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/ssabit/medical-store-management-system?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/ssabit/medical-store-management-system?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ssabit/medical-store-management-system?color=red&style=flat-square)
-![GitHub](https://img.shields.io/github/license/ssabit/medical-store-management-system)
+![GitHub](https://img.shields.io/github/license/ssabit/medical-store-management-system?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/ssabit/medical-store-management-system?style=flat-square)
 
 
